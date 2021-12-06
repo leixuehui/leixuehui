@@ -3,7 +3,7 @@
 
 👋
 
-- 🔭 I’m currently working on machine vision (ISP , image quality ,camera tuning , recognition & measuring, etc.)
+- 🔭 I’m currently working on machine vision (ISP , image quality assessment ,camera tuning , recognition & measuring, etc.)
 
 - 📫 Welcome to visit my github
 
